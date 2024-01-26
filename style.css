@@ -1,0 +1,51 @@
+
+body{
+    margin:0px;
+    padding:0px;
+}
+
+.head{
+    text-align:center;
+    font-size:45px;
+    margin-top:0px;
+    margin-bottom: 2px;
+    color:white;
+}
+
+.main{
+    background-color:black;
+    border:5px solid rgb(230, 136, 14);
+    width:287px;
+    height:398px;
+    border-radius:20px;
+    position:absolute;
+    margin-left:500px;
+    margin-top:90px;
+}
+
+.search{
+    display:flex;
+    justify-content: center;
+
+}
+
+.input{
+    height: 35px;
+    width: 224px;
+    padding:3px;
+    margin:6px;
+    border-radius:10px;
+
+}
+
+.flex{
+    display:flex;
+    justify-content: center;
+    align-content:center;
+}
+.button{
+    padding: 20px;
+  margin: 4px;
+  border-radius:12px;
+  border:2px solid white;
+}
